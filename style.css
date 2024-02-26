@@ -2,17 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
-
-
 
 .homepage {
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.99) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.99) 100%), url(images/header-image.png);
     height: 90vh;
     width: 100%;
     border-bottom: 8px solid rgb(35, 35, 35);
-
 }
 
 nav .image {
